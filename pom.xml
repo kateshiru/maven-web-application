@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>bankofamerica</finalName>
+		<finalName>macys</finalName>
 		
 		<plugins>
 			<plugin>
