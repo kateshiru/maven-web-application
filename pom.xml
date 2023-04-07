@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>macys</finalName>
+		<finalName>safari</finalName>
 		
 		<plugins>
 			<plugin>
