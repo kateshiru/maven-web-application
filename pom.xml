@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.212.217.42:8081/repository/safarireleases/</url>
+	      <url>http://54.212.217.42:8081/repository/walmartreleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.212.217.42:8081/repository/safarisnapshots/</url>
+	      <url>http://54.212.217.42:8081/repository/walmartsnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>safari</finalName>
+		<finalName>walmart</finalName>
 		
 		<plugins>
 			<plugin>
